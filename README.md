@@ -28,12 +28,16 @@ The purpose of this project is to use data transformation and machine learning t
 
 The data for this model is fairly simplified as it has very few missing areas. The raw data consists of a training dataset with the features - jobType, degree, major, industry, yearsExperience and milesFromMetropolis and their corresponding salaries. Twenty percent of this training dataset was split into a test dataset with corresponding salaries.
 
-There is also a testing dataset that does not have any salary information available and was used as a substitute for real-world data tp use the 
+There is also a testing dataset that does not have any salary information available and was used as a substitute for real-world data and used the model to predict it's values/salaries. 
 
-## Rename a file
+## Information Used to Predict Salaries
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
+-   **Years Experience:**  How many years of experience
+-   **Job Type:**  The position held (CEO, CFO, CTO, Vice President, Manager, Janitor, and senior or junior position)
+-   **College Degree:**  Doctoral, Masters, Bachelors, High School, or None
+-   **College Major:**  Biology, Business, Chemistry, Computer Science, Engineering, Literature, Math, Physics, or None
+-   **Industry:**  Auto, Education, Finance, Health, Oil, Service, or Web
+-   **Miles From Metropolis:**  How many miles away from a major city
 ## Delete a file
 
 You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
@@ -157,7 +161,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDY4NzcwMiwyMTM1MDY2MjE3LDEzMD
+eyJoaXN0b3J5IjpbLTQ0MjEwMDgxNSwyMTM1MDY2MjE3LDEzMD
 QwNzM2MjUsNzQ4NTM3MDgxLC0xMDkzMzA3Njk5LDE2NzM2MTAx
 NjNdfQ==
 -->
