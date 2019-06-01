@@ -1,4 +1,4 @@
-# Salary Prediction Project
+# Salary Prediction Project(Python)
 
 ~~strikethrough text~~Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
@@ -142,5 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMzMDc2OTksMTY3MzYxMDE2M119
+eyJoaXN0b3J5IjpbNzc0NTY5NjE4LC0xMDkzMzA3Njk5LDE2Nz
+M2MTAxNjNdfQ==
 -->
