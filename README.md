@@ -5,7 +5,9 @@ The purpose of this project is to use data transformation and machine learning t
 
 # Methodology
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+ - Data Wrangling 
+
+
 
 ## Create files and folders
 
@@ -142,6 +144,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1MDk0NzcyLC0xMDkzMzA3Njk5LDE2Nz
+eyJoaXN0b3J5IjpbNzQ4NTM3MDgxLC0xMDkzMzA3Njk5LDE2Nz
 M2MTAxNjNdfQ==
 -->
