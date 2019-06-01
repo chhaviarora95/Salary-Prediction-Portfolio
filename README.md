@@ -13,7 +13,7 @@ The purpose of this project is to use data transformation and machine learning t
 
 
 # Technologies/Libraries Used
-
+```
  - Python 3
  - Jupyter
  - Pandas
@@ -22,7 +22,7 @@ The purpose of this project is to use data transformation and machine learning t
  - Matplotlib
  - Scikit-Learn
  - Scipy
- 
+ ```
 
 # Datasets available
 
@@ -48,7 +48,7 @@ This model can be used as a guide when determining salaries since it leads to re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTI3ODU0MSwyMTM1MDY2MjE3LDEzMD
-QwNzM2MjUsNzQ4NTM3MDgxLC0xMDkzMzA3Njk5LDE2NzM2MTAx
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTczODUxNTkwMywxNDU1Mjc4NTQxLDIxMz
+UwNjYyMTcsMTMwNDA3MzYyNSw3NDg1MzcwODEsLTEwOTMzMDc2
+OTksMTY3MzYxMDE2M119
 -->
