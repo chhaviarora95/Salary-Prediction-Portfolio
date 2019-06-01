@@ -38,9 +38,13 @@ There is also a testing dataset that does not have any salary information availa
 -   **College Major:**  Biology, Business, Chemistry, Computer Science, Engineering, Literature, Math, Physics, or None
 -   **Industry:**  Auto, Education, Finance, Health, Oil, Service, or Web
 -   **Miles From Metropolis:**  How many miles away from a major city
-## Delete a file
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+
+# Summary
+
+Applying second order polynomial transformation to the features led to the most accurate predictions with the least error when using a linear regression model. The result was a mean squared error of 354 with a 76% accuracy rate.
+
+This model can be used as a guide when determining salaries since it s reasonable predictions when given information on years of experience, miles from metropolis, job type, industry, and college degree and major.
 
 ## Export a file
 
@@ -161,7 +165,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjEwMDgxNSwyMTM1MDY2MjE3LDEzMD
-QwNzM2MjUsNzQ4NTM3MDgxLC0xMDkzMzA3Njk5LDE2NzM2MTAx
-NjNdfQ==
+eyJoaXN0b3J5IjpbNTgwMjU4MDc4LDIxMzUwNjYyMTcsMTMwND
+A3MzYyNSw3NDg1MzcwODEsLTEwOTMzMDc2OTksMTY3MzYxMDE2
+M119
 -->
