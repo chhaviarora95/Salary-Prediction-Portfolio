@@ -12,10 +12,17 @@ The purpose of this project is to use data transformation and machine learning t
  - Evaluation Metrics Used - `Mean Squared Error(MSE) and R-squared`
 
 
+# Technologies/Libraries Used
 
-## Create files and folders
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+ - Python 3
+ - Jupyter
+ - Pandas
+ - Numpy
+ - Seaborn
+ - Matplotlib
+ - Scikit-Learn
+ - Scipy
+ 
 
 ## Switch to another file
 
@@ -148,7 +155,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM4MDcyODksMjEzNTA2NjIxNywxMz
-A0MDczNjI1LDc0ODUzNzA4MSwtMTA5MzMwNzY5OSwxNjczNjEw
-MTYzXX0=
+eyJoaXN0b3J5IjpbMTUxOTQyNTk2OSwyMTM1MDY2MjE3LDEzMD
+QwNzM2MjUsNzQ4NTM3MDgxLC0xMDkzMzA3Njk5LDE2NzM2MTAx
+NjNdfQ==
 -->
