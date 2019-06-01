@@ -24,7 +24,7 @@ The purpose of this project is to use data transformation and machine learning t
  - Scipy
  
 
-## Switch to another file
+# Switch to another file
 
 All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
 
@@ -155,7 +155,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTQyNTk2OSwyMTM1MDY2MjE3LDEzMD
-QwNzM2MjUsNzQ4NTM3MDgxLC0xMDkzMzA3Njk5LDE2NzM2MTAx
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTEwMjIzOTcwLDIxMzUwNjYyMTcsMTMwND
+A3MzYyNSw3NDg1MzcwODEsLTEwOTMzMDc2OTksMTY3MzYxMDE2
+M119
 -->
