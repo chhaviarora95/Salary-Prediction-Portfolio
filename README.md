@@ -42,12 +42,12 @@ There is also a testing dataset that does not have any salary information availa
 
 # Summary
 
-*Applying second order polynomial transformation to the features led to the most accurate predictions with the least error when using a linear regression model. The result was a mean squared error of 354 with a 76% accuracy rate.
+*Applying second order polynomial transformation to the features led to the most accurate predictions with the least error when using a linear regression model. The result was a **mean squared error of 354** with a **76% accuracy rate**.<br>
 This model can be used as a guide when determining salaries since it leads to reasonable predictions when given information on years of experience, miles from metropolis, job type, industry, and college degree and major.*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTU2NTk0LDE0NTUyNzg1NDEsMjEzNT
+eyJoaXN0b3J5IjpbNjQyMTcxNTIwLDE0NTUyNzg1NDEsMjEzNT
 A2NjIxNywxMzA0MDczNjI1LDc0ODUzNzA4MSwtMTA5MzMwNzY5
 OSwxNjczNjEwMTYzXX0=
 -->
