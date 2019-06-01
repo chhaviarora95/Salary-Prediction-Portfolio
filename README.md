@@ -1,9 +1,9 @@
 # Salary Prediction Project(Python)
 
-~~strikethrough text~~Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+The purpose of this project is to use data transformation and machine learning to create a model that will predict a salary when given years of experience, job type, college degree, college major, industry, and miles from a metropolis.
 
 
-# Files
+# Methodology
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
@@ -142,6 +142,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc0NTY5NjE4LC0xMDkzMzA3Njk5LDE2Nz
+eyJoaXN0b3J5IjpbNTA1MDk0NzcyLC0xMDkzMzA3Njk5LDE2Nz
 M2MTAxNjNdfQ==
 -->
