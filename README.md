@@ -26,9 +26,9 @@ The purpose of this project is to use data transformation and machine learning t
 
 # Datasets available
 
-`The data for this model is fairly simplified as it has very few missing pieces. The raw data consists of a training dataset with the features listed above and their corresponding salaries. Twenty percent of this training dataset was split into a test dataset with corresponding salaries.
+The data for this model is fairly simplified as it has very few missing areas. The raw data consists of a training dataset with the features -  and their corresponding salaries. Twenty percent of this training dataset was split into a test dataset with corresponding salaries.
 
-There is also a testing dataset that does not have any salary information available and was used as a substitute for real-world data.`
+There is also a testing dataset that does not have any salary information available and was used as a substitute for real-world data.
 
 ## Rename a file
 
@@ -157,7 +157,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjUxODY3NywyMTM1MDY2MjE3LDEzMD
+eyJoaXN0b3J5IjpbLTUyMTUyODI1OSwyMTM1MDY2MjE3LDEzMD
 QwNzM2MjUsNzQ4NTM3MDgxLC0xMDkzMzA3Njk5LDE2NzM2MTAx
 NjNdfQ==
 -->
