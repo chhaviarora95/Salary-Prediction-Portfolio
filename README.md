@@ -5,7 +5,7 @@ The purpose of this project is to use data transformation and machine learning t
 
 # Methodology
 
- - Data Wrangling - `
+ - Data Wrangling - `Removed duplicates and 
 
 
 
@@ -144,6 +144,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzOTY5MTk2LDc0ODUzNzA4MSwtMTA5Mz
-MwNzY5OSwxNjczNjEwMTYzXX0=
+eyJoaXN0b3J5IjpbMTY1MzQ4NDcwOSw3NDg1MzcwODEsLTEwOT
+MzMDc2OTksMTY3MzYxMDE2M119
 -->
