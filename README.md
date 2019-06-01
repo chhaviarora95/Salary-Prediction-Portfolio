@@ -24,9 +24,13 @@ The purpose of this project is to use data transformation and machine learning t
  - Scipy
  
 
-# Switch to another file
+# Datasets available
 
-All your files are listed in the file explorer. You can switch from one to another by clicking a file in the list.
+```
+The data for this model is fairly simplified as it has very few missing pieces. The raw data consists of a training dataset with the features listed above and their corresponding salaries. Twenty percent of this training dataset was split into a test dataset with corresponding salaries.
+
+There is also a testing dataset that does not have any salary information available and was used as a substitute for real-world data.
+```
 
 ## Rename a file
 
@@ -155,7 +159,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIzOTcwLDIxMzUwNjYyMTcsMTMwND
-A3MzYyNSw3NDg1MzcwODEsLTEwOTMzMDc2OTksMTY3MzYxMDE2
-M119
+eyJoaXN0b3J5IjpbMjEwODMxNzA0MSwyMTM1MDY2MjE3LDEzMD
+QwNzM2MjUsNzQ4NTM3MDgxLC0xMDkzMzA3Njk5LDE2NzM2MTAx
+NjNdfQ==
 -->
