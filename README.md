@@ -9,7 +9,7 @@ The purpose of this project is to use data transformation and machine learning t
  - Exploratory Data Analysis - `Analyzed the data and summarized the main characteristics.`
  - Data Visualization - `Used boxplot, distribution plot, scatter plot, violin plot, residual plot and regression plot to visualize the data and it's characteristics.`
  - Machine Learning Algorithms Used - `Linear Regression, Polynomial Transformation, Ridge Regression and Random Forest`
- - Evaluation Metrics Used - `Mean Square 
+ - Evaluation Metrics Used - `Mean Squared Error(MSE) and R-squared`
 
 
 
@@ -148,7 +148,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDcwMTc0LDIxMzUwNjYyMTcsMTMwND
-A3MzYyNSw3NDg1MzcwODEsLTEwOTMzMDc2OTksMTY3MzYxMDE2
-M119
+eyJoaXN0b3J5IjpbLTE3NDM4MDcyODksMjEzNTA2NjIxNywxMz
+A0MDczNjI1LDc0ODUzNzA4MSwtMTA5MzMwNzY5OSwxNjczNjEw
+MTYzXX0=
 -->
