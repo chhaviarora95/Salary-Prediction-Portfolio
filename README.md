@@ -13,7 +13,7 @@ The purpose of this project is to use data transformation and machine learning t
 
 
 # Technologies/Libraries Used
-```
+``` javascript
  - Python 3
  - Jupyter
  - Pandas
@@ -48,7 +48,7 @@ This model can be used as a guide when determining salaries since it leads to re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODUxNTkwMywxNDU1Mjc4NTQxLDIxMz
+eyJoaXN0b3J5IjpbLTI5NzUyNjU1MiwxNDU1Mjc4NTQxLDIxMz
 UwNjYyMTcsMTMwNDA3MzYyNSw3NDg1MzcwODEsLTEwOTMzMDc2
 OTksMTY3MzYxMDE2M119
 -->
