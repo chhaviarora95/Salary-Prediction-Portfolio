@@ -6,7 +6,7 @@ The purpose of this project is to use data transformation and machine learning t
 # Methodology
 
  - Data Wrangling - `Removed duplicates and dropped misssing or null values in the dataset.`
- - 
+ - Exploratory Data Analysis - 
 
 
 
@@ -145,6 +145,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDA3MzYyNSw3NDg1MzcwODEsLTEwOT
-MzMDc2OTksMTY3MzYxMDE2M119
+eyJoaXN0b3J5IjpbMjEzNTA2NjIxNywxMzA0MDczNjI1LDc0OD
+UzNzA4MSwtMTA5MzMwNzY5OSwxNjczNjEwMTYzXX0=
 -->
