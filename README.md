@@ -8,7 +8,8 @@ The purpose of this project is to use data transformation and machine learning t
  - Data Wrangling - `Removed duplicates and dropped misssing or null values in the dataset.`
  - Exploratory Data Analysis - `Analyzed the data and summarized the main characteristics.`
  - Data Visualization - `Used boxplot, distribution plot, scatter plot, violin plot, residual plot and regression plot to visualize the data and it's characteristics.`
- - Machine Learning Algorithms Used - `
+ - Machine Learning Algorithms Used - `Linear Regression, Polynomial Transformation, Ridge Regression and Random Forest`
+ - Evaluation Metrics Used - `Mean Square 
 
 
 
@@ -147,7 +148,7 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzY5NDA4MiwyMTM1MDY2MjE3LDEzMD
-QwNzM2MjUsNzQ4NTM3MDgxLC0xMDkzMzA3Njk5LDE2NzM2MTAx
-NjNdfQ==
+eyJoaXN0b3J5IjpbMTYzNDcwMTc0LDIxMzUwNjYyMTcsMTMwND
+A3MzYyNSw3NDg1MzcwODEsLTEwOTMzMDc2OTksMTY3MzYxMDE2
+M119
 -->
